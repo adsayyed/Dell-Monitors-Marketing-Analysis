@@ -1,0 +1,233 @@
+﻿================================================================================
+Study Name: monitor
+Date: Monday, December 3, 2018 - 12:49:56 PM
+================================================================================
+
+
+================================================================================
+ATTRIBUTES AND LEVELS
+================================================================================
+
+========================================
+Display Text
+========================================
+
+[Attribute List]:
+
+1	Screen Type
+2	Screen Size
+3	Adaptive Sync
+4	Resolution
+5	Refresh Rates
+6	Wide Viewing Angle
+7	Response Time
+8	HDR
+9	% of Color Spectrum (Color Gamut)
+10	Price
+
+---------------------------
+Attribute 1: 
+	Screen Type
+
+Levels: 
+1	Widescreen
+2	Ultra-Wide
+3	Curved
+4	Curved Ultra-Wide
+
+---------------------------
+Attribute 2: 
+	Screen Size
+
+Levels: 
+1	21"
+2	24"
+3	27"
+4	30"
+5	35"
+
+---------------------------
+Attribute 3: 
+	Adaptive Sync
+
+Levels: 
+1	G-Sync
+2	Free-Sync
+3	None
+
+---------------------------
+Attribute 4: 
+	Resolution
+
+Levels: 
+1	1080p (FHD)
+2	1440p (2k / QHD)
+3	2160p (4k / UHD)
+
+---------------------------
+Attribute 5: 
+	Refresh Rates
+
+Levels: 
+1	75hz
+2	120hz
+3	144hz
+4	165hz
+5	240hz
+
+---------------------------
+Attribute 6: 
+	Wide Viewing Angle
+
+Levels: 
+1	Yes
+2	No
+
+---------------------------
+Attribute 7: 
+	Response Time
+
+Levels: 
+1	1ms
+2	3ms
+3	5ms
+
+---------------------------
+Attribute 8: 
+	HDR
+
+Levels: 
+1	Yes
+2	No
+
+---------------------------
+Attribute 9: 
+	% of Color Spectrum (Color Gamut)
+
+Levels: 
+1	70%
+2	85%
+3	100%
+
+---------------------------
+Attribute 10: 
+	Price
+
+Levels: 
+1	$250
+2	$500
+3	$750
+4	$1,000
+5	$1,250
+
+========================================
+Internal Labels
+========================================
+
+[Attribute List]:
+
+1	Screen Type
+2	Screen Size
+3	Adaptive Sync
+4	Resolution
+5	Refresh Rates
+6	Wide Viewing Angle
+7	Response Time
+8	HDR
+9	% of Color Spectrum (Color Gamut)
+10	Price
+
+---------------------------
+Attribute 1: 
+	Screen Type
+
+Levels: 
+1	Widescreen
+2	Ultra-Wide
+3	Curved
+4	Curved Ultra-Wide
+
+---------------------------
+Attribute 2: 
+	Screen Size
+
+Levels: 
+1	21"
+2	24"
+3	27"
+4	30"
+5	35"
+
+---------------------------
+Attribute 3: 
+	Adaptive Sync
+
+Levels: 
+1	G-Sync
+2	Free-Sync
+3	None
+
+---------------------------
+Attribute 4: 
+	Resolution
+
+Levels: 
+1	1080p (FHD)
+2	1440p (2k / QHD)
+3	2160p (4k / UHD)
+
+---------------------------
+Attribute 5: 
+	Refresh Rates
+
+Levels: 
+1	75hz
+2	120hz
+3	144hz
+4	165hz
+5	240hz
+
+---------------------------
+Attribute 6: 
+	Wide Viewing Angle
+
+Levels: 
+1	Yes
+2	No
+
+---------------------------
+Attribute 7: 
+	Response Time
+
+Levels: 
+1	1ms
+2	3ms
+3	5ms
+
+---------------------------
+Attribute 8: 
+	HDR
+
+Levels: 
+1	Yes
+2	No
+
+---------------------------
+Attribute 9: 
+	% of Color Spectrum (Color Gamut)
+
+Levels: 
+1	70%
+2	85%
+3	100%
+
+---------------------------
+Attribute 10: 
+	Price
+
+Levels: 
+1	$250
+2	$500
+3	$750
+4	$1,000
+5	$1,250
